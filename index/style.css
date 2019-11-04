@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	cursor: url("images/rocketbook logo small.png"), auto;
+		cursor: url("images/rocketbook logo small.png"), auto;
 }
 
 a:link, a:visited {
@@ -16,7 +16,7 @@ img.imgHover:hover {
 	cursor: url("images/rocketbook logo small.png"), auto;
 }
 
-img, .cursor {
+img {
 	align-content: center;
 	width: 556px;
 	height: 202.5px;
