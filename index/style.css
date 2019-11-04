@@ -11,10 +11,9 @@ a:link, a:visited {
 img.imgHover:hover {
 	background-color: rgba(200, 200, 200, 0.2);
 
-	border-radius: 20px;
+	border-radius: 10px;
 
 	cursor: url("images/rocketbook logo small.png"), auto;
-
 }
 
 img, .cursor {
@@ -25,8 +24,8 @@ img, .cursor {
 	position: fixed;
 	top: 50%;
 	left: 50%;
-	margin-top: -116.125px;
-	margin-left: -288px;
+	margin-top: -111.125px;
+	margin-left: -283px;
 }
 
 .cursorFullscreen {
