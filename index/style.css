@@ -27,9 +27,3 @@ img, .cursor {
 	margin-top: -111.125px;
 	margin-left: -283px;
 }
-
-.cursorFullscreen {
-	height: 200%;
-	transform: rotate();
-
-}
