@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	cursor: url("rocketbook logo small.png"), auto;
+}
+
+a:link, a:visited {
+	background-color: transparent;
+}
+
+img.imgHover:hover {
+	background-color: rgba(200, 200, 200, 0.2);
+
+	border-radius: 10px;
+
+	cursor: url("rocketbook logo small.png"), auto;
+}
+
+img {
+	align-content: center;
+	width: 556px;
+	height: 202.5px;
+	padding: 10px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -111.125px;
+	margin-left: -283px;
+}
