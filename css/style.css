@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	cursor: url("images/rocketbook logo small.png"), auto;
+	cursor: url("css/images/rocketbook logo small.png"), auto;
 }
 
 a:link, a:visited {
@@ -13,11 +13,11 @@ img.imgHover:hover {
 
 	border-radius: 10px;
 
-	cursor: url("images/rocketbook logo small.png"), auto;
+	cursor: url("css/images/rocketbook logo small.png"), auto;
 
 }
 
-img, .cursor {
+img {
 	align-content: center;
 	width: 556px;
 	height: 202.5px;
@@ -27,9 +27,4 @@ img, .cursor {
 	left: 50%;
 	margin-top: -111.125px;
 	margin-left: -283px;
-}
-
-.cursorFullscreen {
-	height: 200%;
-	transform: rotate();
 }
