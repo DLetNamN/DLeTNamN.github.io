@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	cursor: url("css/images/rocketbook logo small.png"), auto;
+	cursor: url("../css/images/rocketbook logo small.png"), auto;
 }
 
 a:link, a:visited {
