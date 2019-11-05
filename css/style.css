@@ -1,6 +1,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
+	cursor: none;
 	cursor: url("https://raw.githubusercontent.com/DLetNamN/DLeTNamN.github.io/master/css/images/rocketbook%20logo%20small.png"), auto;
 }
 
