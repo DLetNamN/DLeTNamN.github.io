@@ -1,8 +1,9 @@
 .gr__dletnamn_github_io, body {
 	height: 100%;
+
 	width: 100%;
-	cursor: none;
-	cursor: url("https://raw.githubusercontent.com/DLetNamN/DLeTNamN.github.io/master/css/images/rocketbook%20logo%20small.png"), auto;
+	
+	cursor: url("css/images/rocketbook logo small.png"), auto;
 }
 
 a:link, a:visited {
@@ -14,7 +15,7 @@ img.imgHover:hover {
 
 	border-radius: 10px;
 
-	cursor: url("https://raw.githubusercontent.com/DLetNamN/DLeTNamN.github.io/master/css/images/rocketbook%20logo%20small.png"), auto;
+	cursor: url("css/images/rocketbook logo small.png"), auto;
 
 }
 
